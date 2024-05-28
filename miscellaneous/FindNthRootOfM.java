@@ -1,3 +1,5 @@
+// You are given 2 numbers (n , m); the task is to find n√m (nth root of m).
+
 class Solution
 {
     public int NthRoot(int n, int m)
